@@ -1,9 +1,8 @@
-# 📌 Bukkuru Syam
+# 👋 Hi, I'm Bukkuru Syam  
 
-**Aspiring Software Engineer | AI & ML Enthusiast | MERN Developer**
+**Aspiring Software Engineer | AI & ML Enthusiast | MERN Developer**  
 
-📧 [syambukkuru@gmail.com](mailto:syambukkuru@gmail.com)  
-📱 9398778325  
+📧 [syambukkuru@gmail.com](mailto:syambukkuru@gmail.com) | 📱 9398778325  
 🌐 [GitHub](https://github.com/syam-bukkuru) • [LeetCode](https://leetcode.com/u/syambukkuru) • [LinkedIn](http://www.linkedin.com/in/bukkuru-syam)  
 
 ---
@@ -64,9 +63,23 @@
 
 ---
 
-## 🎓 Education
-- **B.E. in Computer Engineering** – Seshadri Rao Gudlavalleru Engineering College (2022–2026) | CGPA: 8.34  
-- **Senior Secondary (XII)** – Sri New Vision (2020–2022) | Percentage: 73.6  
-- **Secondary (X)** – Montessori EM High School (2019–2020) | CGPA: 9.8  
+## 🎓 Education  
+
+<table>
+  <tr>
+    <td><b>B.E. in Computer Engineering</b> – Seshadri Rao Gudlavalleru Engineering College (2022–2026)</td>
+    <td><b>CGPA:</b> 8.34</td>
+  </tr>
+  <tr>
+    <td><b>Senior Secondary (XII)</b> – Sri New Vision (2020–2022)</td>
+    <td><b>Percentage:</b> 73.6</td>
+  </tr>
+  <tr>
+    <td><b>Secondary (X)</b> – Montessori EM High School (2019–2020)</td>
+    <td><b>CGPA:</b> 9.8</td>
+  </tr>
+</table>
 
 ---
+
+_This portfolio is hosted using **GitHub Pages**_ 🚀  
